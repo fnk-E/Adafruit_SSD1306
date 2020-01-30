@@ -1,3 +1,5 @@
+SSD1306 128x32 I2C
+
 # Adafruit_SSD1306 [![Build Status](https://travis-ci.org/adafruit/Adafruit_SSD1306.svg?branch=master)](https://travis-ci.org/adafruit/Adafruit_SSD1306)
 
 This is a library for our Monochrome OLEDs based on SSD1306 drivers
